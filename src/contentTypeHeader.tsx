@@ -13,9 +13,6 @@ export const generateSearchUrl = (headerType: ContentType) => {
   }
 };
 
-/**
- * A component for adding a "type" header, correctly translated.
- */
 export const ContentTypeHeader = ({ type, className }) => {
   return <div>Hello</div>;
 };
